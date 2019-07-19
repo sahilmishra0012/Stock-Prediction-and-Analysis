@@ -11,3 +11,5 @@ Prediction and Analysis was to be made of various stocks over the span of two ye
 4-> Trade Call Prediction using Classification
 
 5-> Modern Portfolio Theory
+
+6-> Clustering for Diversification analysis
